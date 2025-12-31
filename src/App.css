@@ -1,0 +1,80 @@
+*{
+  margin:0;
+  padding:0px;
+}
+.header{
+  margin: 0;
+  padding: 0;
+  background: rgb(44, 44, 210);
+  width: 100%;
+  height: 70px;
+}
+
+.h1{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: azure;
+  margin: 10px;
+  padding:10px;
+  margin-left: 20px;
+}
+
+.nav{
+  margin-right:30px;
+  text-align: right;
+
+}
+
+.Welcome{
+  width: 100%;
+  height: 100px;
+  background-color: rgb(170, 209, 243);
+  text-align: center;
+  color: black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
+  
+}
+.text{
+  padding: 25px;
+}
+
+.PP{
+  width: 100%;
+  height: 250px;
+  background: rgb(189, 185, 185);
+  text-align: center; 
+  display: flex;
+  justify-content: center;
+}
+
+.card{
+  background: whitesmoke;
+}
+.pt{
+    border-width: 4px solid black;
+    border-radius: 10px;
+}
+
+
+.Footer{
+  width: 100%;
+  height:30px;
+  text-align: center;
+  background: rgb(65, 65, 237);
+  color: #ffffff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding:5px;
+}
+
+.durai{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+  margin: 5px;
+  padding:15px;
+}
+
+.paandi{
+    border-width: solid;
+    border-color: black;
+}
